@@ -61,7 +61,7 @@
   版本管理、文档和自动化部署工具：Svn/Git
   单元测试：PHPUnit/Junit
   Web服务器：Tomcat/JBoss
-  熟悉GoF设计模式，在Linux下有编写Java的经验，了解且编译过openjdk，熟悉TCP/IP协议
+  熟悉GoF设计模式，在Linux下有编写Java的经验，了解且编译过openjdk，熟悉TCP/IP协议。
 
 
   致谢
